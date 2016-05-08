@@ -20,17 +20,12 @@ sudo pip install boto3
 
 ###Flask
 
-If you want to have a enviroment:
+If you want to have a virtual enviroment:
 ```
 sudo pip install virtualenv
-
-In a project folder:
-```
+# In a project folder:
 virtualenv venv
-```
-
-Activate the enviroment
-```
+# Activate the enviroment:
 . venv/bin/activate
 ```
 
